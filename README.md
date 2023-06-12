@@ -31,4 +31,6 @@ Vrinda Store wants to create an annual sales report for the yaer 2022.So that th
   6. Best Order Channels : Amazon - 35%, Myntra - 23% , Flipkart - 22% respectively .
   7. Highest selling category is Kurta for Women.
   
-  ## 
+  ## Suggestions to Improve the sales in the year 2023
+  Target **Women** Customers of age group 30 - 50 who are living in the **Maharashtra,Karnataka, Uttar Pradesh** by giving coupons on platforms like **Amazon , Flipkart and Myntra ** 
+  
