@@ -1,5 +1,10 @@
 # Vrinda-Store-Data-Analysis-Project-Using-Excel
 
+This Project is made by refering to the Excel Project for beginners video by **Rishabh Mishra** 
+Link : https://www.youtube.com/watch?v=gTK5rNhWJyA&t=61s
+
+Kaggle dataset link : https://www.kaggle.com/datasets/mohammadabuishmyle/vrinda-store-data-analysis
+
 ## Problem Statement 
 Vrinda Store wants to create an annual sales report for the yaer 2022.So that they can understand their customer needs and grow more sales in 2023.
 
@@ -34,3 +39,4 @@ Vrinda Store wants to create an annual sales report for the yaer 2022.So that th
   ## Suggestions to Improve the sales in the year 2023
   Target **Women** Customers of age group 30 - 50 who are living in the **Maharashtra,Karnataka, Uttar Pradesh** by giving coupons on platforms like **Amazon , Flipkart and Myntra ** 
   
+  ![Alt Text](https://github.com/sassykrishna-049/Vrinda-Store-Data-Analysis-Project-Using-Excel/blob/main/Vrinda%20Sales.png)
