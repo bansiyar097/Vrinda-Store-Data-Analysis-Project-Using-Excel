@@ -5,6 +5,8 @@ Link : https://www.youtube.com/watch?v=gTK5rNhWJyA&t=61s
 
 Kaggle dataset link : https://www.kaggle.com/datasets/mohammadabuishmyle/vrinda-store-data-analysis
 
+Linked Post Link : https://www.linkedin.com/feed/update/urn:li:activity:7074130883238051841/
+
 ## Problem Statement 
 Vrinda Store wants to create an annual sales report for the yaer 2022.So that they can understand their customer needs and grow more sales in 2023.
 
